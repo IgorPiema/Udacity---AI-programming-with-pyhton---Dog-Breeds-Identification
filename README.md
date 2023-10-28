@@ -1,7 +1,7 @@
 # Udacity-AI programming with pyhton-Dog Breeds Identification
 Use a pre-trained image classifier to identify dog breeds.
 
-Your city is hosting a citywide dog show and you have volunteered to help the organizing committee with contestant registration. Every participant that registers must submit an image of their dog along with biographical information about their dog. The registration system tags the images based upon the biographical information.
+A citywide dog show is being hosted in your city and you have volunteered to help the organizing committee with registration. Every participant that registers must submit an image of their dog along with biographical information about their dog. The registration system tags the images based upon the biographical information.
 
 Some people are planning on registering pets that aren’t actual dogs.
 
